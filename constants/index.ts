@@ -101,28 +101,5 @@ export const sidebarLinks = [
       imgURL:
         "https://lovely-flamingo-139.convex.cloud/api/storage/221ee4bd-435f-42c3-8e98-4a001e0d806e",
     },
-    ,
-    {
-      id: 8,
-      title: "Ted Tech",
-      description: "This is how the news should sound",
-      imgURL:
-        "https://lovely-flamingo-139.convex.cloud/api/storage/221ee4bd-435f-42c3-8e98-4a001e0d806e",
-    },
-    ,
-    {
-      id: 8,
-      title: "Ted Tech",
-      description: "This is how the news should sound",
-      imgURL:
-        "https://lovely-flamingo-139.convex.cloud/api/storage/221ee4bd-435f-42c3-8e98-4a001e0d806e",
-    },
-    ,
-    {
-      id: 8,
-      title: "Ted Tech",
-      description: "This is how the news should sound",
-      imgURL:
-        "https://lovely-flamingo-139.convex.cloud/api/storage/221ee4bd-435f-42c3-8e98-4a001e0d806e",
-    },
+   
   ];
